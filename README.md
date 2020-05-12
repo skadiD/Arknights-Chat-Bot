@@ -1,4 +1,4 @@
-# Arknight-Chat-Bot-明日方舟群聊机器人
+# Arknights-Chat-Bot-明日方舟群聊机器人
   An amazing robot to break the ice for game **Arknights** 
   一个能活跃气氛的智(沙)能(雕)先蒂牌机器人
   
